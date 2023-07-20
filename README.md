@@ -1,13 +1,13 @@
 # PRUEBA TÉCNICA: LARAVEL
 
-Esta prueba técnica permitirá incorporarse al equipo CRACKTI, ten en cuenta la calidad del entregable(UX/UI) y el tiempo
+Esta prueba técnica permitirá incorporarse a la empresa CRUD AGENCY, ten en cuenta la calidad del entregable(UX/UI) y el tiempo
 ## Ejercicio
 
 ### Requerimientos no funcionales
 - Utilizar adminlte
 - Personalizar el adminlte para que se vea mucho mejor
 - Utilizar librería select2, datatable, dropzone, etc.
-- El sistema debe ser realizado en laravel 8 o 9
+- El sistema debe ser realizado en laravel 8 o 9 o 10
 - Los modelos deben estar relacionados
 ### Requerimiento funcional
 Realizar un sistema de mantenimiento de computadoras o laptops con los siguientes requerimientos:
@@ -20,8 +20,8 @@ Realizar un sistema de mantenimiento de computadoras o laptops con los siguiente
 - El sistema debe tener un reporte simple de cuantos mantenimientos se realizó por día.
 
 ## Entregable
-- El sistema será subido a un repositorio propio agregando a [crackti.com@gmail.com](crackti.com@gmail.com) para su revisión 
-- Si no trabajó con migraciones, enviar la BD a este mismo correo
+- El sistema será subido a un repositorio propio agregando a [crud.pe@gmail.com](crud.pe@gmail.com) para su revisión 
+- Si no trabajó con migraciones, enviar la BD a este mismo correo.
 
 ```bash
 ÉXITOS!!!
